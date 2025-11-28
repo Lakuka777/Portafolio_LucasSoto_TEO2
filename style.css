@@ -20,7 +20,7 @@ header {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  padding: 40px 20px;
+  padding: 40px 60px;
   height: auto;
 }
 
@@ -38,6 +38,7 @@ header {
 }
 
 .perfil:hover {
+
  box-shadow: 0 6px 18px rgb(255, 5, 5);
 }
 .perfil img {
