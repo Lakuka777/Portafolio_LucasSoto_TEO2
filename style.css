@@ -38,9 +38,6 @@ header {
 }
 
 .perfil:hover {
- transform:Rotate(450deg) translateY(100px);
-
-
  box-shadow: 0 6px 18px rgb(255, 5, 5);
 }
 .perfil img {
