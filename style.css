@@ -26,7 +26,7 @@ header {
 
 
 .perfil {
- background: #ff0000;
+ background: #ab007b;
 
  border-radius: 15px;
 
@@ -39,7 +39,7 @@ header {
 
 .perfil:hover {
 
- box-shadow: 0 6px 18px rgb(255, 5, 5);
+ box-shadow: 0 6px 18px #ab007b;
 }
 .perfil img {
  width: 200px;
@@ -51,7 +51,7 @@ header {
 
 .perfil button {
   margin-top: 10px;
-  background: #eb2525;
+  background: #ab007b;
   color: white;
   border: none;
   border-radius: 8px;
@@ -99,7 +99,7 @@ header {
   padding: 8px 32px;
   font-size: 16px;
   margin-top: 10px;
-  background: #eb2525;
+  background: #ab007b;
   color: white;
   border: none;
   border-radius: 8px;
@@ -109,7 +109,7 @@ header {
 }
 .botones button:hover
 {
-  background: #ff81c8;
+  background: #ab007b;
 }
 
 .imagenes-inferiores {
